@@ -1,0 +1,9 @@
+[
+    { "id": "male-rings", "name": "男士戒指", "path": "/products?category=male-rings" },
+    { "id": "female-rings", "name": "女士戒指", "path": "/products?category=female-rings" },
+    { "id": "couple-rings", "name": "情侶對戒", "path": "/products?category=couple-rings" },
+    { "id": "necklaces", "name": "項鍊", "path": "/products?category=necklaces" },
+    { "id": "bracelets", "name": "手鍊", "path": "/products?category=bracelets" },
+    { "id": "earrings", "name": "耳環", "path": "/products?category=earrings" },
+    { "id": "diamonds", "name": "裸鑽", "path": "/products?category=diamonds" }
+]

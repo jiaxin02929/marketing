@@ -1,0 +1,12 @@
+[
+    { "label": "首頁", "path": "/" },
+    {
+        "label": "產品",
+        "path": "/products",
+        "hasDropdown": true,
+        "dropdownId": "product-categories"
+    },
+    { "label": "關於我們", "path": "/about" },
+    { "label": "聯絡我們", "path": "/contact" },
+    { "label": "常見問題", "path": "/faq" }
+]

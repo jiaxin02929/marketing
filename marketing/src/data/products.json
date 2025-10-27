@@ -1,0 +1,1277 @@
+[
+    {
+    "id": "classic_male_ring_001",
+    "name": "恆穩之光｜Eterna Shine",
+    "product_code": "DSM0010",
+    "price_min": 38900,
+    "price_max": 80000,
+    "images": [
+        "/images/male_ring_001_01.png",
+        "/images/male_ring_001_02.png",
+        "/images/male_ring_001_03.png",
+        "/images/male_ring_001_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約戒身鑲嵌主鑽於中央，以對稱穩固的結構展現沉穩大氣之姿。鏡面高拋光處理，映襯出低調中的絕對光芒，象徵恆久不變的承諾與堅定信念。",
+    "carat": 0.3,
+    "clarity_1": "VVS2",
+    "clarity_2": "VVS2",
+    "color": "D",
+    "level":"3EX",
+    "material": "鉑金（PT950）"
+    },
+    {
+    "id": "classic_male_ring_002",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male_ring_002_01.png",
+        "/images/male_ring_002_02.png",
+        "/images/male_ring_002_03.png",
+        "/images/male_ring_002_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_003",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_003_01.png",
+        "/images/male-ring_003_02.png",
+        "/images/male-ring_003_03.png",
+        "/images/male-ring_003_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_004",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_004_01.png",
+        "/images/male-ring_004_02.png",
+        "/images/male-ring_004_03.png",
+        "/images/male-ring_004_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_005",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_005_01.png",
+        "/images/male-ring_005_02.png",
+        "/images/male-ring_005_03.png",
+        "/images/male-ring_005_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_006",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_006_01.png",
+        "/images/male-ring_006_02.png",
+        "/images/male-ring_006_03.png",
+        "/images/male-ring_006_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_007",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_007_01.png",
+        "/images/male-ring_007_02.png",
+        "/images/male-ring_007_03.png",
+        "/images/male-ring_007_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_008",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_008_01.png",
+        "/images/male-ring_008_02.png",
+        "/images/male-ring_008_03.png",
+        "/images/male-ring_008_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_009",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_009_01.png",
+        "/images/male-ring_009_02.png",
+        "/images/male-ring_009_03.png",
+        "/images/male-ring_009_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_0010",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_0010_01.png",
+        "/images/male-ring_0010_02.png",
+        "/images/male-ring_0010_03.png",
+        "/images/male-ring_0010_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+    "id": "classic_male_ring_0011",
+    "name": "經典男士鑽戒",
+    "price": 55000,
+    "images": [
+        "/images/male-ring_0011_01.png",
+        "/images/male-ring_0011_02.png",
+        "/images/male-ring_0011_03.png",
+        "/images/male-ring_0011_04.png"
+    ],
+    "category_id": "male-rings",
+    "description": "簡約時尚，凸顯男性魅力，適合日常佩戴。",
+    "carat": 0.5,
+    "cut": "Excellent",
+    "clarity": "VS1",
+    "color": "G",
+    "material": "18K白金"
+    },
+    {
+        "id": "sparkle_female_ring_001",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_001_01.png",
+            "/images/female_ring_001_02.png",
+            "/images/female_ring_001_03.png",
+            "/images/female_ring_001_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_002",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_002_01.png",
+            "/images/female_ring_002_02.png",
+            "/images/female_ring_002_03.png",
+            "/images/female_ring_002_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_003",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_003_01.png",
+            "/images/female_ring_003_02.png",
+            "/images/female_ring_003_03.png",
+            "/images/female_ring_003_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_004",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_004_01.png",
+            "/images/female_ring_004_02.png",
+            "/images/female_ring_004_03.png",
+            "/images/female_ring_004_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_005",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_005_01.png",
+            "/images/female_ring_005_02.png",
+            "/images/female_ring_005_03.png",
+            "/images/female_ring_005_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_006",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_006_01.png",
+            "/images/female_ring_006_02.png",
+            "/images/female_ring_006_03.png",
+            "/images/female_ring_006_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_007",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_007_01.png",
+            "/images/female_ring_007_02.png",
+            "/images/female_ring_007_03.png",
+            "/images/female_ring_007_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_008",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_008_01.png",
+            "/images/female_ring_008_02.png",
+            "/images/female_ring_008_03.png",
+            "/images/female_ring_008_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_009",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_009_01.png",
+            "/images/female_ring_009_02.png",
+            "/images/female_ring_009_03.png",
+            "/images/female_ring_009_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0010",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0010_01.png",
+            "/images/female_ring_0010_02.png",
+            "/images/female_ring_0010_03.png",
+            "/images/female_ring_0010_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0011",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0011_01.png",
+            "/images/female_ring_0011_02.png",
+            "/images/female_ring_0011_03.png",
+            "/images/female_ring_0011_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0012",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0012_01.png",
+            "/images/female_ring_0012_02.png",
+            "/images/female_ring_0012_03.png",
+            "/images/female_ring_0012_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0013",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0013_01.png",
+            "/images/female_ring_0013_02.png",
+            "/images/female_ring_0013_03.png",
+            "/images/female_ring_0013_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0014",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0014_01.png",
+            "/images/female_ring_0014_02.png",
+            "/images/female_ring_0014_03.png",
+            "/images/female_ring_0014_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0015",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0015_01.png",
+            "/images/female_ring_0015_02.png",
+            "/images/female_ring_0015_03.png",
+            "/images/female_ring_0015_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0016",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0016_01.png",
+            "/images/female_ring_0016_02.png",
+            "/images/female_ring_0016_03.png",
+            "/images/female_ring_0016_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0017",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0017_01.png",
+            "/images/female_ring_0017_02.png",
+            "/images/female_ring_0017_03.png",
+            "/images/female_ring_0017_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0018",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0018_01.png",
+            "/images/female_ring_0018_02.png",
+            "/images/female_ring_0018_03.png",
+            "/images/female_ring_0018_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0019",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0019_01.png",
+            "/images/female_ring_0019_02.png",
+            "/images/female_ring_0019_03.png",
+            "/images/female_ring_0019_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0020",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0020_01.png",
+            "/images/female_ring_0020_02.png",
+            "/images/female_ring_0020_03.png",
+            "/images/female_ring_0020_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0021",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0021_01.png",
+            "/images/female_ring_0021_02.png",
+            "/images/female_ring_0021_03.png",
+            "/images/female_ring_0021_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0022",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0022_01.png",
+            "/images/female_ring_0022_02.png",
+            "/images/female_ring_0022_03.png",
+            "/images/female_ring_0022_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0023",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female_ring_0023_01.png",
+            "/images/female-ring_0023_02.png",
+            "/images/female-ring_0023_03.png",
+            "/images/female-ring_0023_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0024",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0024_01.png",
+            "/images/female-ring_0024_02.png",
+            "/images/female-ring_0024_03.png",
+            "/images/female-ring_0024_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0025",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0025_01.png",
+            "/images/female-ring_0025_02.png",
+            "/images/female-ring_0025_03.png",
+            "/images/female-ring_0025_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0026",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0026_01.png",
+            "/images/female-ring_0026_02.png",
+            "/images/female-ring_0026_03.png",
+            "/images/female-ring_0026_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0027",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0027_01.png",
+            "/images/female-ring_0027_02.png",
+            "/images/female-ring_0027_03.png",
+            "/images/female-ring_0027_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0028",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0028_01.png",
+            "/images/female-ring_0028_02.png",
+            "/images/female-ring_0028_03.png",
+            "/images/female-ring_0028_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0029",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0029_01.png",
+            "/images/female-ring_0029_02.png",
+            "/images/female-ring_0029_03.png",
+            "/images/female-ring_0029_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0030",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0030_01.png",
+            "/images/female-ring_0030_02.png",
+            "/images/female-ring_0030_03.png",
+            "/images/female-ring_0030_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0031",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0031_01.png",
+            "/images/female-ring_0031_02.png",
+            "/images/female-ring_0031_03.png",
+            "/images/female-ring_0031_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0032",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0032_01.png",
+            "/images/female-ring_0032_02.png",
+            "/images/female-ring_0032_03.png",
+            "/images/female-ring_0032_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0033",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0033_01.png",
+            "/images/female-ring_0033_02.png",
+            "/images/female-ring_0033_03.png",
+            "/images/female-ring_0033_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0034",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0034_01.png",
+            "/images/female-ring_0034_02.png",
+            "/images/female-ring_0034_03.png",
+            "/images/female-ring_0034_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0035",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0035_01.png",
+            "/images/female-ring_0035_02.png",
+            "/images/female-ring_0035_03.png",
+            "/images/female-ring_0035_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+        "id": "sparkle_female_ring_0036",
+        "name": "璀璨心型女戒",
+        "price": 88000,
+        "images": [
+            "/images/female-ring_0036_01.png",
+            "/images/female-ring_0036_02.png",
+            "/images/female-ring_0036_03.png",
+            "/images/female-ring_0036_04.png"
+        ],
+        "category_id": "female-rings",
+        "description": "浪漫心型主鑽，搭配密釘鑲邊鑽，閃耀奪目。",
+        "carat": 0.8,
+        "cut": "Very Good",
+        "clarity": "VVS2",
+        "color": "D",
+        "material": "18K玫瑰金"
+    },
+    {
+
+        "id": "eternal_couple_ring_001",
+        "name": "永恆情侶對戒",
+        "price": 120000,
+        "images": [
+            "/images/couple_ring_001_01.png",
+            "/images/couple_ring_001_02.png",
+            "/images/couple_ring_001_03.png"
+        ],
+        "category_id": "couple-rings",
+        "description": "寓意永恆的經典對戒，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+
+        "id": "eternal_couple_ring_002",
+        "name": "永恆情侶對戒",
+        "price": 120000,
+        "images": [
+            "/images/couple_ring_002_01.png",
+            "/images/couple_ring_002_02.png",
+            "/images/couple_ring_002_03.png"
+        ],
+        "category_id": "couple-rings",
+        "description": "寓意永恆的經典對戒，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+
+        "id": "eternal_couple_ring_003",
+        "name": "永恆情侶對戒",
+        "price": 120000,
+        "images": [
+            "/images/couple_ring_003_01.png",
+            "/images/couple_ring_003_02.png",
+            "/images/couple_ring_003_03.png"
+        ],
+        "category_id": "couple-rings",
+        "description": "寓意永恆的經典對戒，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+
+        "id": "eternal_couple_ring_004",
+        "name": "永恆情侶對戒",
+        "price": 120000,
+        "images": [
+            "/images/couple_ring_004_01.png",
+            "/images/couple_ring_004_02.png",
+            "/images/couple_ring_004_03.png"
+        ],
+        "category_id": "couple-rings",
+        "description": "寓意永恆的經典對戒，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+
+        "id": "eternal_couple_ring_005",
+        "name": "永恆情侶對戒",
+        "price": 120000,
+        "images": [
+            "/images/couple_ring_005_01.png",
+            "/images/couple_ring_005_02.png",
+            "/images/couple_ring_005_03.png"
+        ],
+        "category_id": "couple-rings",
+        "description": "寓意永恆的經典對戒，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+
+        "id": "eternal_couple_ring_006",
+        "name": "永恆情侶對戒",
+        "price": 120000,
+        "images": [
+            "/images/couple_ring_006_01.png",
+            "/images/couple_ring_006_02.png",
+            "/images/couple_ring_006_03.png"
+        ],
+        "category_id": "couple-rings",
+        "description": "寓意永恆的經典對戒，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_necklace_001",
+        "name": "永恆項鍊",
+        "price": 120000,
+        "images": [
+            "/images/necklace_001_01.png",
+            "/images/necklace_001_02.png",
+            "/images/necklace_001_03.png"
+        ],
+        "category_id": "necklaces",
+        "description": "寓意永恆的經典項鍊，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_necklace_002",
+        "name": "永恆項鍊",
+        "price": 120000,
+        "images": [
+            "/images/necklace_002_01.png",
+            "/images/necklace_002_02.png",
+            "/images/necklace_002_03.png"
+        ],
+        "category_id": "necklaces",
+        "description": "寓意永恆的經典項鍊，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_necklace_003",
+        "name": "永恆項鍊",
+        "price": 120000,
+        "images": [
+            "/images/necklace_003_01.png",
+            "/images/necklace_003_02.png",
+            "/images/necklace_003_03.png"
+        ],
+        "category_id": "necklaces",
+        "description": "寓意永恆的經典項鍊，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_necklace_004",
+        "name": "永恆項鍊",
+        "price": 120000,
+        "images": [
+            "/images/necklace_004_01.png",
+            "/images/necklace_004_02.png",
+            "/images/necklace_004_03.png"
+        ],
+        "category_id": "necklaces",
+        "description": "寓意永恆的經典項鍊，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_necklace_005",
+        "name": "永恆項鍊",
+        "price": 120000,
+        "images": [
+            "/images/necklace_005_01.png",
+            "/images/necklace_005_02.png",
+            "/images/necklace_005_03.png"
+        ],
+        "category_id": "necklaces",
+        "description": "寓意永恆的經典項鍊，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_necklace_006",
+        "name": "永恆項鍊",
+        "price": 120000,
+        "images": [
+            "/images/necklace_006_01.png",
+            "/images/necklace_006_02.png",
+            "/images/necklace_006_03.png"
+        ],
+        "category_id": "necklaces",
+        "description": "寓意永恆的經典項鍊，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_necklace_007",
+        "name": "永恆項鍊",
+        "price": 120000,
+        "images": [
+            "/images/necklace_007_01.png",
+            "/images/necklace_007_02.png",
+            "/images/necklace_007_03.png"
+        ],
+        "category_id": "necklaces",
+        "description": "寓意永恆的經典項鍊，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_earrings_001",
+        "name": "耳環",
+        "price": 120000,
+        "images": [
+            "/images/earrings_001_01.png",
+            "/images/earrings_001_02.png",
+            "/images/earrings_001_03.png"
+        ],
+        "category_id": "earrings",
+        "description": "寓意永恆的經典耳環，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "eternal_earrings_002",
+        "name": "耳環",
+        "price": 120000,
+        "images": [
+            "/images/earrings_002_01.png",
+            "/images/earrings_002_02.png",
+            "/images/earrings_002_03.png"
+        ],
+        "category_id": "earrings",
+        "description": "寓意永恆的經典耳環，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+        "id": "eternal_bracelet_001",
+        "name": "永恆手鍊",
+        "price": 120000,
+        "images": [
+            "/images/bracelet_001_01.png",
+            "/images/bracelet_001_02.png",
+            "/images/bracelet_001_03.png"
+        ],
+        "category_id": "bracelets",
+        "description": "寓意永恆的經典手鍊，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond_asscher",
+        "name": "裸鑽 - Asscher",
+        "price": 120000,
+        "images": ["/images/diamond_asscher.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond-cushion",
+        "name": "裸鑽 - Cushion",
+        "price": 120000,
+        "images": ["/images/diamond-cushion.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond-diamond-emerald",
+        "name": "裸鑽 - Emerald",
+        "price": 120000,
+        "images": ["/images/diamond-emerald.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond-diamond-heart",
+        "name": "裸鑽 - Heart",
+        "price": 120000,
+        "images": ["/images/diamond-heart.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond-diamond-marquise",
+        "name": "裸鑽 - Marquise",
+        "price": 120000,
+        "images": ["/images/diamond-marquise.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+        "id": "diamond-diamond-oval",
+        "name": "裸鑽 - Oval",
+        "price": 120000,
+        "images": ["/images/diamond-oval.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond-diamond-pear",
+        "name": "裸鑽 - Pear",
+        "price": 120000,
+        "images": ["/images/diamond-pear.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond-diamond-princess",
+        "name": "裸鑽 - Princess",
+        "price": 120000,
+        "images": ["/images/diamond-princess.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond-radiant",
+        "name": "裸鑽 - Radiant",
+        "price": 120000,
+        "images": ["/images/diamond-radiant.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    },
+    {
+      
+        "id": "diamond-round",
+        "name": "裸鑽 - Round",
+        "price": 120000,
+        "images": ["/images/diamond-round.png"],
+        "category_id": "loose-diamonds",
+        "description": "寓意永恆的經典裸鑽，見證愛的承諾。",
+        "carat": 0.3,
+        "cut": "Good",
+        "clarity": "SI1",
+        "color": "H",
+        "material": "鉑金"
+    }
+]
